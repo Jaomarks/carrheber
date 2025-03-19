@@ -1,4 +1,4 @@
-# Car Manager API
+# Car Manager API ( baguncinha)
 
 Sistema de gerenciamento de frota de veículos desenvolvido com Node.js, Express e MongoDB. Este sistema permite o controle completo de uma frota de veículos, incluindo gestão de usuários, veículos, viagens e manutenções.
 
@@ -176,7 +176,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autores
 
-- Seu Nome - [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+- Seu Nome - [371544jm@gmail.com](mailto:371544jm@gmail.com)
 
 ## 🙏 Agradecimentos
 
